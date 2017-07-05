@@ -1,4 +1,4 @@
-package com.tutorialspoint;
+package com.utilities;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
